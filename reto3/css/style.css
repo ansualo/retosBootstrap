@@ -1,0 +1,11 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    background-image: linear-gradient(rgb(83, 83, 83), black);
+}
+
